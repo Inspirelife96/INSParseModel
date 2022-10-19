@@ -1,0 +1,16 @@
+PODS:
+  - INSParseModel (0.1.0)
+
+DEPENDENCIES:
+  - INSParseModel (from `../`)
+
+EXTERNAL SOURCES:
+  INSParseModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  INSParseModel: 29cdcc0c03d8d6cda9e79d7bb2f8e649bb00a706
+
+PODFILE CHECKSUM: e748e49cb406424cdd4cc0cadef49791854385f0
+
+COCOAPODS: 1.11.2

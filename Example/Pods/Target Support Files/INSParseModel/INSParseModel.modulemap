@@ -1,0 +1,6 @@
+framework module INSParseModel {
+  umbrella header "INSParseModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
